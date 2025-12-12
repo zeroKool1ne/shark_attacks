@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (roh / groß)
+data/raw/
+data/external/
+
+# OS
+.DS_Store
